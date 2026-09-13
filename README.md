@@ -17,6 +17,6 @@
 
 - I'm an independent developer coding with passion.
 - CS graduate from Hong Kong Polytechnic University.
-- Native Mandarin and English, learning Japanese.
+- Native English and Mandarin, learning Japanese.
 
 > "Your lack of commitment is an insult to those who believe in you."
